@@ -172,3 +172,55 @@ The shape of a dataset shows how values are spread.
   - Treemaps
 
 #### **Write Conclusion**
+
+---
+**Notes RM**
+
+### **Probability Distributions in Data Analysis**
+
+#### **Normal Distribution**  
+
+A Normal Distribution is a type of probability distribution that is:  
+
+* Symmetrical around its mean  
+* Bell-shaped when plotted on a graph  
+* Has mean = median = mode  
+* Most data points cluster around the center, and probabilities decrease as you move further from the mean  
+
+**Example**: Heights, weights, and exam scores often follow a normal distribution.  
+
+#### **Skewed Distribution**  
+
+A Skewed Distribution is a type of probability distribution that is not symmetrical.  
+It occurs when one tail of the distribution is longer than the other.  
+
+* **Positively Skewed (Right-Skewed):** The tail extends to the right, with most data concentrated on the left.  
+* **Negatively Skewed (Left-Skewed):** The tail extends to the left, with most data concentrated on the right.  
+
+**Example**:  
+* Right-skewed: Income distribution (a few very high incomes pull the mean to the right).  
+* Left-skewed: Age at retirement (most people retire around a certain age, but some retire very early).  
+
+#### **Bimodal Distribution**  
+
+A Bimodal Distribution is a probability distribution with **two distinct peaks (modes)**.  
+This indicates the data has two dominant groups or clusters.  
+
+* The peaks may represent two different populations within the same dataset.  
+* Mean and median may not align with either peak.  
+
+**Example**:  
+* Exam scores where a class has two groups — one who studied and one who didn’t.  
+* Heights in a dataset containing both adults and children.  
+
+#### **Uniform Distribution**  
+
+A Uniform Distribution is a probability distribution where **all outcomes are equally likely**.  
+The graph looks like a **rectangle** since each value has the same probability.  
+
+* No peaks, every event has equal chance.  
+* Mean and median are the same.  
+
+**Example**:  
+* Rolling a fair dice (each face has a 1/6 chance).  
+* Choosing a random card from a well-shuffled deck.  
