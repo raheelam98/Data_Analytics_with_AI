@@ -73,8 +73,6 @@ The shape of a dataset shows how values are spread.
 
 **Goal:** Understand how two features affect each other and extract meaningful insights.
 
----
-
 ## 5. Summary
 
 | Type of Analysis       | Purpose                    | Example Plots         |
